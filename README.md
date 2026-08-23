@@ -46,7 +46,7 @@ Both `tg://proxy?...` and `https://t.me/proxy?...` forms are normalized to `tg:/
 
 ### GitHub secret
 
-Repository secret **`TG_MCP_BEARER`** (set on [alexeyleshchenko/tgproxy](https://github.com/alexeyleshchenko/tgproxy)). Use the token value only (no `Bearer ` prefix), or paste the full header — the script strips the prefix.
+Repository secret **`TG_MCP_BEARER`** (set on [leshchenko1979/tgproxy](https://github.com/leshchenko1979/tgproxy)). Use the token value only (no `Bearer ` prefix), or paste the full header — the script strips the prefix.
 
 ## Local Setup
 
@@ -67,7 +67,7 @@ The script updates `docs/proxies.txt`, a hashed copy, and the fetch URL in `inde
 - **Update flow**: Actions [`nightly-update.yml`](.github/workflows/nightly-update.yml) (needs `TG_MCP_BEARER`). Manual: **Actions → Nightly proxy update → Run workflow**.
 - **Pages deploy**: [`pages.yml`](.github/workflows/pages.yml) on push to `main` and `workflow_dispatch`.
 
-The itg-1 Caddy vhost and `0 3 * * * /opt/tgproxy/scripts/update.sh` cron were retired when this repo moved to **alexeyleshchenko**.
+The itg-1 Caddy vhost and `0 3 * * * /opt/tgproxy/scripts/update.sh` cron were retired; publish is GitHub Pages from this repo.
 
 ## Development
 
