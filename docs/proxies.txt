@@ -1,3 +1,4 @@
+tg://proxy?server=45.67.57.32&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6d2e6265626f6f2e7275|2026-08-28T15:29:10
 tg://proxy?server=meow-meow-fast.site&port=443&secret=7|2026-08-28T14:46:10
 tg://proxy?server=81.90.17.20&port=443&secret=eeb30ab977974e81030a3fae574487ea0b7a6f6f6d2e7573|2026-08-28T11:48:25
 tg://proxy?server=81.90.17.18&port=443&secret=ee4abdcd71408a5baf0a60c68924bcdac37a6f6f6d2e7573|2026-08-28T11:48:25
@@ -20,7 +21,6 @@ tg://proxy?server=95.182.97.253&port=443&secret=eea339ca5cc76d3f7946a1356a63f094
 tg://proxy?server=31.58.87.179&port=443&secret=ee44bba5fdde571acf4dd7ffe839c20f5b6d2e6265626f6f2e7275|2026-08-25T09:42:52
 tg://proxy?server=45.12.72.161&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6d2e6265626f6f2e7275|2026-08-25T06:17:07
 tg://proxy?server=159.194.214.176&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6b69636b2e636f6d|2026-08-25T05:55:40
-tg://proxy?server=185.173.145.5&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275|2026-08-25T03:46:29
 tg://proxy?server=yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f6f77656c77652e6c697665|2026-08-24T11:46:39
 tg://proxy?server=shared2.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275|2026-08-21T12:21:40
 tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275|2026-08-21T12:21:40
